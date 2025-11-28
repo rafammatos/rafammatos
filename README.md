@@ -8,7 +8,7 @@ Welcome to my profile. My name is Rafael Moraes Matos and below you will find so
 
 📈 I'm currently learning Data Science at the British School of Creative Arts and Techonology - EBAC.
 
-📫 How to reach me: https://www.linkedin.com/in/rafael-moraes-matos-712554111/ or email me at rafammatos12@gmail.com
+📫 How to reach me: [my LinkedIn] (https://www.linkedin.com/in/rafael-moraes-matos-712554111/) or email me at rafammatos12@gmail.com
 
 😎 A fun fact of mine is that i love planting and cultivate mushrooms.
 
